@@ -3,6 +3,6 @@ This is An App that helps to calculate the Salary of  Employees of a company whe
 the app calculates the one-time salary,hourly salary,mouthly salary
 Done By:
 Name : UWIMANA David
-Reg:218006691
+Reg:218006786
 
 ![output file](salaryapp.jpg)
